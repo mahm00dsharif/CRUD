@@ -1,4 +1,33 @@
 {
+  "products":[
+    {
+      "id":1,
+      "name":"Apple",
+      "category":"Fruit",
+      "freshness":"brand new",
+      "date":"2022-01-01",
+      "price":100,
+      "comment":""
+    },
+    {
+      "id":2,
+      "name":"Orange",
+      "category":"Fruit",
+      "freshness":"brand new",
+      "date":"2022-01-01",
+      "price":100,
+      "comment":""
+    },
+    {
+      "id":1,
+      "name":"Banana",
+      "category":"Fruit",
+      "freshness":"brand new",
+      "date":"2022-01-01",
+      "price":100,
+      "comment":""
+    }
+   ],
   "posts": [
     {
       "id": 1,
